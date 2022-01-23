@@ -1,0 +1,10 @@
+name,description,trainings,imgUrl,skills,creatorId,createdAt,employees,isPublic,img
+Metier 1,ceci est une descritption 1,null,https://monimageurl1,null,123456,01/01/2021,null,TRUE,null
+Metier 2,ceci est une descritption 2,null,https://monimageurl2,null,123456,02/01/2021,null,TRUE,null
+Metier 3,ceci est une descritption 3,null,https://monimageurl3,null,123456,03/01/2021,null,TRUE,null
+Metier 4,ceci est une descritption 4,null,https://monimageurl4,null,123456,04/01/2021,null,TRUE,null
+Metier 5,ceci est une descritption 5,null,https://monimageurl5,null,123456,05/01/2021,null,TRUE,null
+Metier 6,ceci est une descritption 6,null,https://monimageurl6,null,123456,06/01/2021,null,TRUE,null
+Metier 7,ceci est une descritption 7,null,https://monimageurl7,null,123456,07/01/2021,null,TRUE,null
+Metier 8,ceci est une descritption 8,null,https://monimageurl8,null,123456,08/01/2021,null,TRUE,null
+Metier 9,ceci est une descritption 9,null,https://monimageurl9,null,123456,09/01/2021,null,TRUE,null

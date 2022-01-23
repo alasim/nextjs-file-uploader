@@ -1,0 +1,9 @@
+GET /v1/teams/TEAMID/databases/DATABASEID/exec HTTP/1.1
+Authorization: Bearer YOURNINOXAPIKEY
+Content-Type: application/json
+Host: api.ninox.com
+Connection: close
+User-Agent: Paw/3.3.3 (Macintosh; OS X/12.0.1) GCDHTTPRequest
+
+
+

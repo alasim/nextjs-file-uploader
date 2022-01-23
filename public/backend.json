@@ -1,0 +1,1787 @@
+[
+  {
+    "id": "1",
+    "data": {
+      "label": "Backend Learning Path"
+    },
+    "type": "default",
+    "position": {
+      "x": 183,
+      "y": -499
+    },
+    "className": "title-node"
+  },
+  {
+    "id": "1636980469277",
+    "data": {
+      "label": "Learn a Language",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 228,
+      "y": -37.30000000000001
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636980488011",
+    "data": {
+      "label": "Javascript",
+      "isConnected": true,
+      "isRecommended": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 18,
+      "y": -124.83333333333334
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636980488447",
+    "data": {
+      "label": "Java",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 508,
+      "y": -105.83333333333334
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636980488941",
+    "data": {
+      "label": "Python",
+      "isConnected": true,
+      "isRecommended": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 515,
+      "y": -6.833333333333343
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636980489377",
+    "data": {
+      "label": "C#",
+      "isConnected": true,
+      "isRecommended": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 513,
+      "y": -56.83333333333334
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636980546942",
+    "data": {
+      "label": "Ruby",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 18,
+      "y": -83.83333333333334
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636980551337",
+    "data": {
+      "label": "PHP",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 19,
+      "y": -32.83333333333334
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636980469277side-b-1636980488011lv2-a",
+    "source": "1636980469277",
+    "target": "1636980488011",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636980469277side-b-1636980546942lv2-a",
+    "source": "1636980469277",
+    "target": "1636980546942",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636980469277side-b-1636980551337lv2-a",
+    "source": "1636980469277",
+    "target": "1636980551337",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636980469277side-a-1636980488447lv2-b",
+    "source": "1636980469277",
+    "target": "1636980488447",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636980469277side-a-1636980489377lv2-b",
+    "source": "1636980469277",
+    "target": "1636980489377",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636980469277side-a-1636980488941lv2-b",
+    "source": "1636980469277",
+    "target": "1636980488941",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "1636980695252",
+    "data": {
+      "label": "General Knowledge",
+      "isConnected": false,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 223.01728626654233,
+      "y": -200.25151271560378
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636980791662",
+    "data": {
+      "label": "Basic Terminal Commands",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 35.42984938611539,
+      "y": -246.12815910864242
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636980820303",
+    "data": {
+      "label": "About Operating Systems",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 36.42984938611539,
+      "y": -202.12815910864242
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636980832062",
+    "data": {
+      "label": "Process Management",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 429.4298493861154,
+      "y": -247.9794607536454
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636980839674",
+    "data": {
+      "label": "Threads and Concurrency",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 432.4298493861154,
+      "y": -198.9794607536454
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636980852610",
+    "data": {
+      "label": "Basic Network Concepts",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 443.4298493861154,
+      "y": -151.83076239864835
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636980926683",
+    "data": {
+      "label": "Rust",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 26.42984938611562,
+      "y": 16.317935956348663
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636980932795",
+    "data": {
+      "label": "Go",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 491.4298493861156,
+      "y": 40.31793595634866
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636980469277side-a-1636980932795lv2-b",
+    "source": "1636980469277",
+    "target": "1636980932795",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636980469277side-b-1636980926683lv2-a",
+    "source": "1636980469277",
+    "target": "1636980926683",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636980695252side-b-1636980791662lv2-a",
+    "source": "1636980695252",
+    "target": "1636980791662",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636980695252side-b-1636980820303lv2-a",
+    "source": "1636980695252",
+    "target": "1636980820303",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636980695252side-a-1636980832062lv2-b",
+    "source": "1636980695252",
+    "target": "1636980832062",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636980695252side-a-1636980839674lv2-b",
+    "source": "1636980695252",
+    "target": "1636980839674",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636980695252side-a-1636980852610lv2-b",
+    "source": "1636980695252",
+    "target": "1636980852610",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "1636981073049",
+    "data": {
+      "label": "Memory Management",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 40.672785892723255,
+      "y": -168.52141590842422
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636980695252side-b-1636981073049lv2-a",
+    "source": "1636980695252",
+    "target": "1636981073049",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636980695252lv1-b-1636980469277lv1-a",
+    "type": "smoothstep",
+    "source": "1636980695252",
+    "target": "1636980469277",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636989736503",
+    "data": {
+      "label": "Basic usage of Git",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 230.99533615858252,
+      "y": 70.9521004021949
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636989772397",
+    "data": {
+      "label": "Repo hosting services",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 217.99533615858252,
+      "y": 176.9521004021949
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636989784052",
+    "data": {
+      "label": "Github",
+      "isConnected": true,
+      "isRecommended": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 461.9953361585825,
+      "y": 134.41876706886154
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636980469277lv1-b-1636989736503lv1-a",
+    "type": "smoothstep",
+    "source": "1636980469277",
+    "target": "1636989736503",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "reactflow__edge-1636989736503lv1-b-1636989772397lv1-a",
+    "type": "smoothstep",
+    "source": "1636989736503",
+    "target": "1636989772397",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636989799689",
+    "data": {
+      "label": "Gitlab",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 455.9953361585825,
+      "y": 191.41876706886154
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636989805720",
+    "data": {
+      "label": "BitBucket",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 46.99533615858252,
+      "y": 197.41876706886154
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636989815613",
+    "data": {
+      "label": "Azure Devops",
+      "isConnected": true,
+      "isRecommended": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 28.995336158582518,
+      "y": 141.41876706886154
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636989772397side-b-1636989815613lv2-a",
+    "source": "1636989772397",
+    "target": "1636989815613",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636989772397side-b-1636989805720lv2-a",
+    "source": "1636989772397",
+    "target": "1636989805720",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636989772397side-a-1636989784052lv2-b",
+    "source": "1636989772397",
+    "target": "1636989784052",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636989772397side-a-1636989799689lv2-b",
+    "source": "1636989772397",
+    "target": "1636989799689",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "1636989851879",
+    "data": {
+      "label": "Relational Databases",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 224.99533615858252,
+      "y": 288.9521004021949
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636989864465",
+    "data": {
+      "label": "MS SQL",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 441.9953361585825,
+      "y": 266.4187670688616
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636989880748",
+    "data": {
+      "label": "PostgreSQL",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 443.9953361585825,
+      "y": 320.4187670688616
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636989890325",
+    "data": {
+      "label": "OracleDB",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 113.99533615858252,
+      "y": 257.4187670688616
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636989896700",
+    "data": {
+      "label": "MySQL",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 119.99533615858252,
+      "y": 303.4187670688616
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636989851879side-b-1636989890325lv2-a",
+    "source": "1636989851879",
+    "target": "1636989890325",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636989851879side-b-1636989896700lv2-a",
+    "source": "1636989851879",
+    "target": "1636989896700",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636989851879side-a-1636989864465lv2-b",
+    "source": "1636989851879",
+    "target": "1636989864465",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636989851879side-a-1636989880748lv2-b",
+    "source": "1636989851879",
+    "target": "1636989880748",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636989772397lv1-b-1636989851879lv1-a",
+    "type": "smoothstep",
+    "source": "1636989772397",
+    "target": "1636989851879",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636989930569",
+    "data": {
+      "label": "NoSQL Databases",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 236.9953361585824,
+      "y": 397.102100402195
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636989851879lv1-b-1636989930569lv1-a",
+    "type": "smoothstep",
+    "source": "1636989851879",
+    "target": "1636989930569",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636989957621",
+    "data": {
+      "label": "MongoDB",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 405.9953361585824,
+      "y": 365.33543373552834
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636989962924",
+    "data": {
+      "label": "CouchDB",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 406.9953361585824,
+      "y": 418.33543373552834
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636989968316",
+    "data": {
+      "label": "DynamoDB",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 90.9953361585824,
+      "y": 381.33543373552834
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990009664",
+    "data": {
+      "label": "Cassandra",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 92.9953361585824,
+      "y": 430.33543373552834
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636989930569side-a-1636989957621lv2-b",
+    "source": "1636989930569",
+    "target": "1636989957621",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636989930569side-a-1636989962924lv2-b",
+    "source": "1636989930569",
+    "target": "1636989962924",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636989930569side-b-1636989968316lv2-a",
+    "source": "1636989930569",
+    "target": "1636989968316",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636989930569side-b-1636990009664lv2-a",
+    "source": "1636989930569",
+    "target": "1636990009664",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "1636990096968",
+    "data": {
+      "label": "Advanced Database Topics",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 237.9953361585824,
+      "y": 518.102100402195
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636989930569lv1-b-1636990096968lv1-a",
+    "type": "smoothstep",
+    "source": "1636989930569",
+    "target": "1636990096968",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636990179842",
+    "data": {
+      "label": "Database normalization",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 72.4953361585824,
+      "y": 503.8354337355284
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990209849",
+    "data": {
+      "label": "Indexes",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 76.4953361585824,
+      "y": 548.8354337355283
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990220687",
+    "data": {
+      "label": "Transactions",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 466.4953361585824,
+      "y": 483.8354337355284
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990236728",
+    "data": {
+      "label": "Data replication",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 466.4953361585824,
+      "y": 528.8354337355283
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636990096968side-a-1636990220687lv2-b",
+    "source": "1636990096968",
+    "target": "1636990220687",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636990096968side-a-1636990236728lv2-b",
+    "source": "1636990096968",
+    "target": "1636990236728",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636990096968side-b-1636990179842lv2-a",
+    "source": "1636990096968",
+    "target": "1636990179842",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636990096968side-b-1636990209849lv2-a",
+    "source": "1636990096968",
+    "target": "1636990209849",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "1636990319212",
+    "data": {
+      "label": "ORMs",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 468.33083758412454,
+      "y": 577.0553560787675
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636990096968side-a-1636990319212lv2-b",
+    "source": "1636990096968",
+    "target": "1636990319212",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "1636990353539",
+    "data": {
+      "label": "About APIs",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 288.73329803026013,
+      "y": 638.5646940225358
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636990369784",
+    "data": {
+      "label": "SOAP",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 147.33083758412454,
+      "y": 607.0553560787675
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990693117",
+    "data": {
+      "label": "OpenAPI Spec",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 144.33083758412454,
+      "y": 666.0553560787675
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636990353539side-b-1636990693117lv2-a",
+    "source": "1636990353539",
+    "target": "1636990693117",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636990353539side-b-1636990369784lv2-a",
+    "source": "1636990353539",
+    "target": "1636990369784",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "1636990777003",
+    "data": {
+      "label": "REST",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 415.6710836287381,
+      "y": 627.0553560787675
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636990353539side-a-1636990777003lv2-b",
+    "source": "1636990353539",
+    "target": "1636990777003",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636990096968lv1-b-1636990353539lv1-a",
+    "type": "smoothstep",
+    "source": "1636990096968",
+    "target": "1636990353539",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636990792940",
+    "data": {
+      "label": "Authentication",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 311.07354407487367,
+      "y": 758.5646940225358
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636990809303",
+    "data": {
+      "label": "Basic Authentication",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 164.0074633458371,
+      "y": 765.8325094303025
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990819782",
+    "data": {
+      "label": "OAuth",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 207.3269712566099,
+      "y": 728.8325094303025
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990828774",
+    "data": {
+      "label": "Token Authentication",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 460.3269712566099,
+      "y": 782.8325094303025
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990845236",
+    "data": {
+      "label": "JWT",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 463.3269712566099,
+      "y": 830.8325094303025
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990853794",
+    "data": {
+      "label": "SAML",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 210.3269712566099,
+      "y": 809.8325094303025
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990873982",
+    "data": {
+      "label": "Cookie Based",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 458.3269712566098,
+      "y": 738.8325094303025
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636990792940side-b-1636990819782lv2-a",
+    "source": "1636990792940",
+    "target": "1636990819782",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636990792940side-b-1636990809303lv2-a",
+    "source": "1636990792940",
+    "target": "1636990809303",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636990792940side-b-1636990853794lv2-a",
+    "source": "1636990792940",
+    "target": "1636990853794",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636990792940side-a-1636990873982lv2-b",
+    "source": "1636990792940",
+    "target": "1636990873982",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636990792940side-a-1636990828774lv2-b",
+    "source": "1636990792940",
+    "target": "1636990828774",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636990792940side-a-1636990845236lv2-b",
+    "source": "1636990792940",
+    "target": "1636990845236",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636990353539lv1-b-1636990792940lv1-a",
+    "type": "smoothstep",
+    "source": "1636990353539",
+    "target": "1636990792940",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636990922492",
+    "data": {
+      "label": "Caching",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 234.15667165365926,
+      "y": 894.4261368705652
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636990937372",
+    "data": {
+      "label": "CDN",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 329.15667165365926,
+      "y": 855.6594702038985
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990942742",
+    "data": {
+      "label": "Redis",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 145.65667165365926,
+      "y": 883.6594702038985
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636990953024",
+    "data": {
+      "label": "Memcached",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 329.65667165365926,
+      "y": 911.6594702038985
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636990922492side-b-1636990942742lv2-a",
+    "source": "1636990922492",
+    "target": "1636990942742",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636990922492side-a-1636990937372lv2-b",
+    "source": "1636990922492",
+    "target": "1636990937372",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636990922492side-a-1636990953024lv2-b",
+    "source": "1636990922492",
+    "target": "1636990953024",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636990792940lv1-b-1636990922492lv1-a",
+    "type": "smoothstep",
+    "source": "1636990792940",
+    "target": "1636990922492",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636991013892",
+    "data": {
+      "label": "Web Security",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 326.25418814480736,
+      "y": 1040.8676053692438
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636991022690",
+    "data": {
+      "label": "HTTPS",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 184.83277097735936,
+      "y": 1033.27135239596
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991030827",
+    "data": {
+      "label": "SSL/TLS",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 181.31705441084898,
+      "y": 982.0606438122363
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991036977",
+    "data": {
+      "label": "CORS",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 487.317054410849,
+      "y": 972.8185020954915
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991047357",
+    "data": {
+      "label": "OWASP",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 489.317054410849,
+      "y": 1039.1235100782778
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991105630",
+    "data": {
+      "label": "MD5",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 493.317054410849,
+      "y": 1088.1235100782778
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991113521",
+    "data": {
+      "label": "SHA",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 185.31705441084898,
+      "y": 1083.1235100782778
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636991013892side-b-1636991030827lv2-a",
+    "source": "1636991013892",
+    "target": "1636991030827",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636991013892side-b-1636991022690lv2-a",
+    "source": "1636991013892",
+    "target": "1636991022690",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636991013892side-b-1636991113521lv2-a",
+    "source": "1636991013892",
+    "target": "1636991113521",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636991013892side-a-1636991036977lv2-b",
+    "source": "1636991013892",
+    "target": "1636991036977",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636991013892side-a-1636991047357lv2-b",
+    "source": "1636991013892",
+    "target": "1636991047357",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636991013892side-a-1636991105630lv2-b",
+    "source": "1636991013892",
+    "target": "1636991105630",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636990922492lv1-b-1636991013892lv1-a",
+    "type": "smoothstep",
+    "source": "1636990922492",
+    "target": "1636991013892",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636991161527",
+    "data": {
+      "label": "Testing",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 374.2130275345976,
+      "y": 1178.8498053231792
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636991167031",
+    "data": {
+      "label": "Unit Testing",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 495.91853316755885,
+      "y": 1195.1946016834463
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991174412",
+    "data": {
+      "label": "Integration Testing",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 496.04798260426276,
+      "y": 1245.194601683446
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991181762",
+    "data": {
+      "label": "Functional Testing",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 488.04798260426276,
+      "y": 1155.1946016834463
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636991161527side-a-1636991181762lv2-b",
+    "source": "1636991161527",
+    "target": "1636991181762",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636991161527side-a-1636991167031lv2-b",
+    "source": "1636991161527",
+    "target": "1636991167031",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636991161527side-a-1636991174412lv2-b",
+    "source": "1636991161527",
+    "target": "1636991174412",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636991013892lv1-b-1636991161527lv1-a",
+    "type": "smoothstep",
+    "source": "1636991013892",
+    "target": "1636991161527",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636991242960",
+    "data": {
+      "label": "Design & Architecture Patterns",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 227.78526480887194,
+      "y": 1336.3925268933551
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636991269750",
+    "data": {
+      "label": "SOLID",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 123.78526480887194,
+      "y": 1300.6258602266885
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991275225",
+    "data": {
+      "label": "KISS",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 123.78526480887194,
+      "y": 1342.6258602266885
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991282342",
+    "data": {
+      "label": "DRY",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 125.78526480887194,
+      "y": 1383.6258602266885
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991291267",
+    "data": {
+      "label": "DDD",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 120.78526480887194,
+      "y": 1202.6258602266885
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991299749",
+    "data": {
+      "label": "TDD",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 121.78526480887194,
+      "y": 1249.6258602266885
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991325818",
+    "data": {
+      "label": "Monolith Apps",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 478.28526480887194,
+      "y": 1311.6258602266885
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991336005",
+    "data": {
+      "label": "Microservices",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 481.28526480887194,
+      "y": 1351.6258602266885
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991342064",
+    "data": {
+      "label": "Serverless",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 484.28526480887194,
+      "y": 1391.6258602266885
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991365823",
+    "data": {
+      "label": "SOA",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 485.28526480887194,
+      "y": 1432.1258602266885
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636991242960side-b-1636991291267lv2-a",
+    "source": "1636991242960",
+    "target": "1636991291267",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636991242960side-b-1636991299749lv2-a",
+    "source": "1636991242960",
+    "target": "1636991299749",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636991242960side-b-1636991269750lv2-a",
+    "source": "1636991242960",
+    "target": "1636991269750",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636991242960side-b-1636991275225lv2-a",
+    "source": "1636991242960",
+    "target": "1636991275225",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636991242960side-b-1636991282342lv2-a",
+    "source": "1636991242960",
+    "target": "1636991282342",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636991242960side-a-1636991325818lv2-b",
+    "source": "1636991242960",
+    "target": "1636991325818",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636991242960side-a-1636991336005lv2-b",
+    "source": "1636991242960",
+    "target": "1636991336005",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636991242960side-a-1636991342064lv2-b",
+    "source": "1636991242960",
+    "target": "1636991342064",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636991242960side-a-1636991365823lv2-b",
+    "source": "1636991242960",
+    "target": "1636991365823",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636991161527lv1-b-1636991242960lv1-a",
+    "type": "smoothstep",
+    "source": "1636991161527",
+    "target": "1636991242960",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636991426497",
+    "data": {
+      "label": "Containers",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 272.1961442860156,
+      "y": 1491.6149974113325
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636991450129",
+    "data": {
+      "label": "Docker",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 151.9016499189769,
+      "y": 1475.9597937715994
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991455897",
+    "data": {
+      "label": "Kubernetes",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 406.9016499189769,
+      "y": 1476.9597937715994
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636991426497side-b-1636991450129lv2-a",
+    "source": "1636991426497",
+    "target": "1636991450129",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636991426497side-a-1636991455897lv2-b",
+    "source": "1636991426497",
+    "target": "1636991455897",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636991242960lv1-b-1636991426497lv1-a",
+    "type": "smoothstep",
+    "source": "1636991242960",
+    "target": "1636991426497",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636991474488",
+    "data": {
+      "label": "Web Sockets",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 321.1961442860156,
+      "y": 1576.6149974113325
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636991488499",
+    "data": {
+      "label": "Web Servers",
+      "isConnected": true,
+      "isConnecting": true
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 358.1961442860156,
+      "y": 1661.6149974113325
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "1636991498300",
+    "data": {
+      "label": "Nginx",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 258.9016499189769,
+      "y": 1688.9597937715994
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991502748",
+    "data": {
+      "label": "Apache",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 252.9016499189769,
+      "y": 1641.9597937715994
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "1636991507825",
+    "data": {
+      "label": "IIS",
+      "isConnected": true
+    },
+    "type": "lv2Node",
+    "position": {
+      "x": 519.9016499189769,
+      "y": 1642.9597937715994
+    },
+    "className": "level-two-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636991488499side-b-1636991502748lv2-a",
+    "source": "1636991488499",
+    "target": "1636991502748",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636991488499side-b-1636991498300lv2-a",
+    "source": "1636991488499",
+    "target": "1636991498300",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-b",
+    "targetHandle": "lv2-a"
+  },
+  {
+    "id": "reactflow__edge-1636991488499side-a-1636991507825lv2-b",
+    "source": "1636991488499",
+    "target": "1636991507825",
+    "className": "level-two-edge color-1",
+    "sourceHandle": "side-a",
+    "targetHandle": "lv2-b"
+  },
+  {
+    "id": "reactflow__edge-1636991474488lv1-b-1636991488499lv1-a",
+    "type": "smoothstep",
+    "source": "1636991474488",
+    "target": "1636991488499",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "reactflow__edge-1636991426497lv1-b-1636991474488lv1-a",
+    "type": "smoothstep",
+    "source": "1636991426497",
+    "target": "1636991474488",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  },
+  {
+    "id": "1636991547461",
+    "data": {
+      "label": "CI/CD",
+      "isConnected": true,
+      "isConnecting": false
+    },
+    "type": "lv1Node",
+    "position": {
+      "x": 375.9942268222269,
+      "y": 1736.684210111692
+    },
+    "className": "level-one-node color-1"
+  },
+  {
+    "id": "reactflow__edge-1636991488499lv1-b-1636991547461lv1-a",
+    "type": "smoothstep",
+    "source": "1636991488499",
+    "target": "1636991547461",
+    "className": "level-one-edge",
+    "sourceHandle": "lv1-b",
+    "targetHandle": "lv1-a"
+  }
+]
